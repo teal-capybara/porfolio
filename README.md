@@ -1,46 +1,35 @@
 # Xyy | Xyra Frago's Portfolio
 
-My personal portfolio website. I'm a BS Information Technology student at TUP Manila, interested in cybersecurity and AI/machine learning.
-
 **Live site:** https://porfolio-chi-nine-56.vercel.app
 
-## What's inside
+## About this portfolio
 
-It's a single page that fits on one screen. Click a card (or use the menu) to open it:
+This is my personal portfolio website. It's where I show who I am as a BS Information Technology student at TUP Manila, the projects I've built while learning, and the tech communities I'm part of. I made it to share with the GDG community and for future collaborations and opportunities.
 
-- **About Me:** who I am, my photo, and what I'm interested in
-- **Skills:** the languages and tools I use, and what I'm currently exploring
-- **Projects:** course projects I've built in C, C++ and Java, plus a USSD-based outpatient appointment scheduling prototype
-- **Organizations:** GDGoC-TUPM and TUP COMPASS
-- **Let's Connect:** GitHub, LinkedIn and email
+## Features
 
-On phones the cards stack and the page scrolls.
+- **One-page design:** the whole portfolio fits on one screen, with no scrolling on desktop
+- **Click-to-open cards:** About Me, Skills, Projects, Organizations and Let's Connect each open in a pop-up with more details
+- **Mobile friendly:** on phones the cards stack and the page scrolls
+- **Capybara theme:** a midnight blue, teal and yellow look with a capybara mascot
 
 ## Built with
 
 - HTML
 - CSS
-- A little JavaScript (for the pop-ups and fitting the page to the screen)
+- A little JavaScript
 
-It's one `index.html` file with no frameworks and no build step. The capybara stickers and icons are embedded inside the file. Fonts (Plus Jakarta Sans and Caveat) load from Google Fonts. Deployed on [Vercel](https://vercel.com).
+It's a single `index.html` file with no frameworks and no build step. Deployed on [Vercel](https://vercel.com).
 
 ## Run it locally
 
 1. Download or clone this repo.
 2. Open `index.html` in your browser.
 
-That's it!
+## Author
 
-## Change the photo
-
-Add a picture named `xyra.jpg` to the same folder as `index.html`. It shows up in the About Me pop-up automatically. If the file is missing, a capybara is shown instead.
-
-## Contact
+**Xyra Claire Frago**, BS Information Technology, TUP Manila
 
 - GitHub: [teal-capybara](https://github.com/teal-capybara)
 - LinkedIn: [Xyra Frago](https://www.linkedin.com/in/xyra-frago-5100793b4)
 - Email: fragoxyra@gmail.com
-
----
-
-© Xyra Claire Frago
